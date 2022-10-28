@@ -1,4 +1,3 @@
 # AgeingBrain
 Files to build brain model during learning
-
-Files can be run in order or independently if files are saved
+These are the final files used to run code for "Ageing Brains" project
